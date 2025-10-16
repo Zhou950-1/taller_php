@@ -1,12 +1,3 @@
-<!--Desafío 1: La Sucesión de Fibonacci-->
-<!--
-La sucesión de Fibonacci es una secuencia de números donde cada número es la suma de
-los dos anteriores (ej: 0, 1, 1, 2, 3, 5, 8...).
-
-Tu tarea: Escribe un script que genere y muestre los primeros 20 números de la sucesión de
-Fibonacci.
--->
-
 <!DOCTYPE html>
 <html lang="es">
     <head>
