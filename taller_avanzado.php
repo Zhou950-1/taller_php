@@ -29,6 +29,8 @@
                 } else if ($categoria == "alimentacion") {
                     $descuentoAplicado = $precio - ($precio / 5);
                     return round($descuentoAplicado, 2);
+                } else {
+                    return $precio;
                 }
             }
 
